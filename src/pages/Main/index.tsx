@@ -2,7 +2,7 @@
 'use client';
 import { useEffect, useState } from 'react';
 import MousePosition from '../../components/MousePosition';
-import { Container, Title } from './styles'
+import { Container } from './styles'
 import { motion } from 'framer-motion';
 
 export default function Main() {
