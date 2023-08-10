@@ -1,7 +1,6 @@
 import styled from 'styled-components'
 import mask from "../../assets/images/mask.svg"
 
-
 export const Container = styled.div`
   height: 100vh;
   width: 100%;
